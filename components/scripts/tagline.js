@@ -1,6 +1,6 @@
 var fill;
 
-tagline.coffee;
+$(require('jquery'));
 
 (fill = function(item) {
   return $('.tagline').append("" + item);
