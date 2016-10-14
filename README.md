@@ -1,5 +1,3 @@
-README.md
-
-# Workflows Course
+# Workflows
 
 This project is an example
